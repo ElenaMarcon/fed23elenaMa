@@ -1,14 +1,23 @@
 body {
-    background-color: bisque;
+    background-color: white;
 }
 .wrapper {
-  margin: 10px;
-  padding: 30px;
-  border: 1px solid red;
-  border-right: 5px dotted red;
+  height: 100%;
+  width: 100%;
 }
-.flag {
-  margin: 10px;
-  padding: 30px;
-  border: 1px solid blue;
+.wrapper .flag01 {
+  background: #75AADB;
+  height:200px;
 }
+.wrapper .flag02 {
+  background: white;
+  height:100px; 
+}    
+.wrapper .flag03 {
+  background: black;
+  height:50px; 
+}    
+.wrapper .flag04 {
+  background: white;
+  height:100px;
+} 
