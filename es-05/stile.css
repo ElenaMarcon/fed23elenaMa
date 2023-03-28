@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}    
+.wrapper {
+  height: 500px;
+  width: 100%;
+  background: grey;
+}
+.inners {
+  margin-left: 475px;
+  background-color: grey;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 10px grey, inset 0 0 0 20px white, inset 0 0 0 30px grey, inset 0 0 0 40px grey, inset 0 0 0 50px white, inset 0 0 0 60px grey, inset 0 0 0 70px grey, inset 0 0 0 80px white, inset 0 0 0 90px grey, inset 0 0 0 100px grey, inset 0 0 0 110px white, inset 0 0 0 120px grey,inset 0 0 0 130px grey, inset 0 0 0 140px white, inset 0 0 0 150px grey, inset 0 0 0 160px grey, inset 0 0 0 170px white; 
+}
+.banner {
+  height: 10px;
+  width: 50px;
+  background: white;
+    }
